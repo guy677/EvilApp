@@ -6,6 +6,6 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "install": "export Ha=no"
+    "install": ""
   }
 }
