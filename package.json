@@ -1,6 +1,6 @@
 {
-  "name": "npm-vuln",
-  "version": "1.25.2",
+  "name": "vuln-app",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "",
